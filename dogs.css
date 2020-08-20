@@ -1,0 +1,205 @@
+body{ 
+  
+  background-image: linear-gradient(#0000ff, #00ff00,#00ffff,#ffff00,#ff0000,#ffccff,#4dffa6,#c68c53,#000000,#fff,#CCC);
+  background-repeat: no-repeat;
+  background-size: 100%;
+
+
+}
+
+h1{
+  margin-top: 0px;
+  text-align: center;
+  background-color: #0066ff;
+  color: #1affff;
+  font-size: 80px;
+  font-style: italic;
+}
+
+
+.top a {
+  width: 15%;
+  background-color: #1a75ff;
+  display: inline-block;
+  color: black;
+  text-align: center;
+  padding: 20px;
+  text-decoration: none;
+  font-size: 30px;
+  border-radius: 50px;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,1)
+}
+.top-content a:hover {
+  background-color: #00ffff;
+  color: yellow;
+}
+
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 1);
+  max-width: 500px;
+  text-align: center;
+  margin: auto;
+  background-color:  #fff;
+  font:italic bold 20px/20px Georgia, serif;;
+
+}
+.card button {
+  border: none;
+  outline: 0;
+  padding: 12px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+}
+.card button:hover {
+background-color: #00ffff;
+}
+p{
+ color: #000000;
+background-color: #fff;
+}
+
+#img1{
+position: relative;
+left: 330px;
+}
+#img2{
+position: relative;
+right: 300px;
+top: -420px;
+}
+#img3{
+position: relative;
+left: 330px;
+top: -400px;
+}
+#img4{
+position: relative;
+right: 300px;
+top: -790px;
+}
+#img5{
+position: relative;
+left: 330px;
+top: -770px;
+}
+#img6{
+position: relative;
+right: 300px;
+top: -1210px;
+}
+#img7{
+position: relative;
+left: 330px;
+top: -1180px;
+}
+#img8{
+position: relative;
+right: 300px;
+top: -1618px;
+}
+#img9{
+position: relative;
+left: 330px;
+top: -1590px;
+}
+#img10{
+position: relative;
+right: 300px;
+top: -2000px;
+}
+#img11{
+position: relative;
+left: 330px;
+top: -1950px;
+}
+#img12{
+position: relative;
+right: 300px;
+top: -2350px;
+}
+#img13{
+position: relative;
+left: 330px;
+top: -2320px;
+}
+#img14{
+position: relative;
+right: 300px;
+top: -2750px;
+}
+#img15{
+position: relative;
+left: 330px;
+top: -2690px;
+}
+#img16{
+position: relative;
+right: 300px;
+top: -3040px;
+}
+#img17{
+position: relative;
+left: 330px;
+top: -3000px;
+}
+#img18{
+position: relative;
+right: 300px;
+top: -3390px;
+}
+#img19{
+position: relative;
+left: 330px;
+top: -3370px;
+}
+#img20{
+position: relative;
+right: 300px;
+top: -3750px;
+}
+#img21{
+position: relative;
+left: 330px;
+top: -3700px;
+}
+#img22{
+position: relative;
+right: 300px;
+top: -4070px;
+}
+#img23{
+position: relative;
+left: 330px;
+top: -4030px;
+}
+#img24{
+position: relative;
+right: 300px;
+top: -4450px;
+}
+#img25{
+position: relative;
+left: 330px;
+top: -4400px;
+}
+
+#myBtn {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 30px;
+  z-index: 99;
+  font-size: 18px;
+  border: none;
+  outline: none;
+  background-color: #000000;
+  color: #00ffff;
+  cursor: pointer;
+  padding: 15px;
+  border-radius: 4px;
+}

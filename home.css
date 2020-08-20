@@ -1,0 +1,97 @@
+body{ 
+  background-image: linear-gradient(#0000ff,#fff,#ccc);
+  background-repeat: no-repeat;
+  background-size: 100%;
+
+
+}
+
+h1{
+  margin-top: 0px;
+  text-align: center;
+  background-color: #0066ff;
+  color: #00ffff;
+  font-size: 80px;
+  font-style: italic;
+}
+
+.top li {
+  width: 15%;
+  background-color: #1a75ff;
+  display: inline-block;
+  color: black;
+  text-align: center;
+  padding: 20px;
+  text-decoration: none;
+  font-size: 30px;
+  border-radius: 50px;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,1)
+}
+.top li:hover{
+  background-color: #00ffff;
+  color: yellow;
+}
+
+
+
+nav {
+  margin-right: 100px;
+  margin-left: 100px;
+}
+
+button{
+  float: right;
+  background: #1affff;
+  display: inline-block;
+  color: black;
+  text-align: center;
+  padding: -10px;
+  text-decoration: none;
+  font-size: 30px;
+  border-radius: 50px;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,1)
+}
+
+.information {
+  border: 10px solid #0066ff;
+  padding: 5px;
+}
+h2 {
+  word-spacing: 10px;
+  line-height: 50px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #000000;
+  text-shadow: 2px 2px #00ffff;
+}
+p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  text-decoration-color: red; 
+  text-transform: capitalize;
+  text-indent: -2px;
+  text-align: left;
+  letter-spacing: 1px;
+  color: #000000;
+  font:italic bold 20px/20px Georgia, serif;;
+}
+a {
+  text-decoration: none;
+  color: #000000;
+}
+ 
+#myBtn {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 30px;
+  font-size: 18px;
+  border: none;
+  outline: none;
+  background-color: #000000;
+  color: #00ffff;
+  cursor: pointer;
+  padding: 15px;
+  border-radius: 4px;
+}
+
